@@ -1,0 +1,2 @@
+- npm i express dotenv cors morgan mongoose
+- npm nodemon ts-node -D
